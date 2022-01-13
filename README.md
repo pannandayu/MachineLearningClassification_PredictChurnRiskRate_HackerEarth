@@ -6,3 +6,18 @@ The dataset includes user's demographic, browsing behavior, and so on (another u
 
 for further information, click on this website:
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-customer-churn/
+
+--------------------
+Data Training Results 
+Ver.1 % Ver.2:
+Random Forest = 74%
+XGBoost = 75%
+
+The difference only occurs on data pre-processing, the results didn't contrast that much.
+
+--------------------
+Data Testing Score 
+Random Forest = 73
+XGBoost = 62
+
+The Random Forest model did better on creating a good/stable model.
