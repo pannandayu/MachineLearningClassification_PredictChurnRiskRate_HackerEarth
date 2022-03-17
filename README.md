@@ -10,7 +10,7 @@ https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-
 --------------------
 Data Training Results
 
-Ver.1 % Ver.2:
+Ver.1 & Ver.2:
 
 Random Forest = 74%
 
