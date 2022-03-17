@@ -26,6 +26,3 @@ Random Forest = 73
 XGBoost = 62
 
 The Random Forest model did better on creating a good/stable model.
-
---------------------
-The 1st rank person scored 77.
