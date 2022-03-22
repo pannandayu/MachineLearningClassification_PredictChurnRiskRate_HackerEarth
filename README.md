@@ -9,5 +9,7 @@ https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-
 
 --------------------
 Model = Random Forest
-Model Testing Score = 75%
-Prediction Score = 74%
+
+Model Testing Score = 74%
+
+Prediction Score = 73%
