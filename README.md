@@ -1,4 +1,4 @@
-# datascience_project_1
+# Data Science Project
 Predicting The Customer's Churn Risk Rate
 --------------------
 This is a hackerearth.com challenge on how to predict the customer's churn risk rate on a specific internet provider company.
